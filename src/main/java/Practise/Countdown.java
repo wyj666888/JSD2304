@@ -52,6 +52,6 @@ public class Countdown {//类
 
     public static void main(String[] args) {
         Countdown gui = new Countdown();
-        gui.start((60+60+19)*60);
+        gui.start((34)*60);
     }
 }
